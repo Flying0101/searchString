@@ -1,0 +1,14 @@
+C:\vs-code\csharp\searchString\searchString\bin\Debug\net8.0\searchString.exe
+C:\vs-code\csharp\searchString\searchString\bin\Debug\net8.0\searchString.deps.json
+C:\vs-code\csharp\searchString\searchString\bin\Debug\net8.0\searchString.runtimeconfig.json
+C:\vs-code\csharp\searchString\searchString\bin\Debug\net8.0\searchString.dll
+C:\vs-code\csharp\searchString\searchString\bin\Debug\net8.0\searchString.pdb
+C:\vs-code\csharp\searchString\searchString\obj\Debug\net8.0\searchString.GeneratedMSBuildEditorConfig.editorconfig
+C:\vs-code\csharp\searchString\searchString\obj\Debug\net8.0\searchString.AssemblyInfoInputs.cache
+C:\vs-code\csharp\searchString\searchString\obj\Debug\net8.0\searchString.AssemblyInfo.cs
+C:\vs-code\csharp\searchString\searchString\obj\Debug\net8.0\searchString.csproj.CoreCompileInputs.cache
+C:\vs-code\csharp\searchString\searchString\obj\Debug\net8.0\searchString.dll
+C:\vs-code\csharp\searchString\searchString\obj\Debug\net8.0\refint\searchString.dll
+C:\vs-code\csharp\searchString\searchString\obj\Debug\net8.0\searchString.pdb
+C:\vs-code\csharp\searchString\searchString\obj\Debug\net8.0\searchString.genruntimeconfig.cache
+C:\vs-code\csharp\searchString\searchString\obj\Debug\net8.0\ref\searchString.dll
